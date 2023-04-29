@@ -8,7 +8,7 @@ const projects = [
   { image: ConverseAIImage, title: "Converse AI", color: "#74cf92" },
   {
     image: OnlineVotingSystemImage,
-    title: "Omnifood",
+    title: "Online Voting System",
     first: true,
     color: "#e67f22",
   },

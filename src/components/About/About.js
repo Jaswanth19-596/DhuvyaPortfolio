@@ -16,19 +16,21 @@ const About = () => {
             Get to know me
           </h4>
           <p className={styles.para}>
-            I'm a Frontend Web Developer building the Front-end of Websites and
-            Web Applications that leads to the success of the overall product.
-            Check out some of my work in the Projects section.
+            I'm a big psychooo , always shouting at small kids and beating them
+            is my aim. "Whatever the situation is , Just sleep " Said by The
+            Great Dhuvya And i'm just following that.
+          </p>
+
+          <p className={styles.para}>
+            I like doing Crafts. And I love gardening. Whereever There is Ice
+            cream There is Dhuyva. I love carrots and beetroots more than ice
+            creams. If Eating at correct time is a art them I'm the picasso of
+            it.
           </p>
           <p className={styles.para}>
-            I also like sharing content related to the stuff that I have learned
-            over the years in Web Development so it can help other people of the
-            Dev Community. Feel free to Connect or Follow me on my Linkedin
-          </p>
-          <p className={styles.para}>
-            I'm open to Job opportunities where I can contribute, learn and
-            grow. If you have a good opportunity that matches my skills and
-            experience then don't hesitate to contact me.
+            I hate lazy people. If you go to google and search opposite of
+            lazyness then you will find my name. If a work is given to me , then
+            I will do it within microseconds.
           </p>
         </div>
         <div className={styles["grid-right-container"]}>
